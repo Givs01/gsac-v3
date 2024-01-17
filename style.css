@@ -719,6 +719,8 @@ p.role {
 
     p.name{
         font-weight: bold;
+        font-size: 0.7em;
+
     }
     
     p.org {
@@ -795,7 +797,7 @@ p.role {
         font-weight: bold;
         margin: 0;
         padding: 0;
-        font-size: 0.6em;
+        font-size: 0.7em;
         line-height: 14px;
         padding-top: 10px;
 
@@ -803,7 +805,7 @@ p.role {
     
     p.st {
         font-weight: normal;
-        font-size: 0.6em;
+        font-size: 0.7em;
         margin: 0;
         
     }
