@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    text-decoration: none;
+
+  }
+  
+  .sub-container {
+    width: 100%;
+  }
+  
+  #container2 {
+    width: 20%;
+    position: relative;
+    
+  }
+  
+  #container3 {
+    width: 50%;
+    margin-left: 20px;
+    align-content: center;
+    
+  }
+
+  .photo {
+    max-width: 100%;
+    height: auto;
+    background-color: #be700a;
+    border-radius: 20px;
+    display: block;
+border: .5px solid gray; 
+    border-right: 4px solid #00a3ba;
+}
+
+.sub-container p {
+    margin: auto;
+
+}
+
